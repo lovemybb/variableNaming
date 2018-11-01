@@ -46,3 +46,15 @@
 |currentRangeMonth|当前月龄段||
 |ableRatio|能占比||
 |uncertainRatio|不确定占比||
+|index|索引|i|
+|province|省||
+|city|市||
+|county|县||
+|area|区||
+|isApp|是否是app环境||
+|shareTitle|分享标题|sTitle|
+|shareDesc|分享描述|sDesc|
+|shareImage|分享图片icon|sImage|
+|shareUrl|分享链接|sUrl|
+|knowledgeId|知识id||
+|hgestation|妊娠期||
